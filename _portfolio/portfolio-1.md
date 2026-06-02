@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Ethernet cable"
+excerpt: " The artifact is an Ethernet cable that I have assembled by hand. The tools I have used to construct this were a cable cutter and a cable tester. What I learned from this is that you need patience and precision when tackling tasks. 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
