@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "A simple calculator"
+excerpt: "This is a very simple calculator I made in Java. This calculator shows my ability to code in Java. This simple calculator, although it can’t subtract, divide, or multiply, but hey, it’s a start. This was a challenge to figure out and get working, but in the end, I figured it out and got it working.
+ <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
