@@ -13,7 +13,7 @@ main:
     url: /portfolio/
     
   - title: "Resume"
-    url: /cv/
+    url: /cv/<br/><img src='/images/My_resume.png'>
     
   # - title: "CV"
   #   url: /cv-json/
